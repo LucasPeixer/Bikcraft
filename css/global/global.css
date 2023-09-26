@@ -15,6 +15,9 @@ body {
 a {
   color: inherit;
 }
+span {
+  font-family: inherit;
+}
 
 img {
   max-width: 100%;
